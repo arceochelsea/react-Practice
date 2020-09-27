@@ -10,9 +10,6 @@ function App() {
    >
      <NavBarClass />
      <NavBarFunc />
-     <h1>
-       Home
-     </h1>
     </div>
   );
 }
